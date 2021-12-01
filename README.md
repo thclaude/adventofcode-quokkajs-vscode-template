@@ -2,6 +2,10 @@
 
 Template pour utiliser [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) durant l'adventcode
 
+## Pré-requis
+- VSCode
+- [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
+
 ## Installation
 
 ```bash
